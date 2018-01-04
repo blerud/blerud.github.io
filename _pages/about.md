@@ -13,3 +13,4 @@ I study computer science at the University of Maryland College Park
 
 - [Github](https://www.github.com/blerud)
 - [LinkedIn](https://www.linkedin.com/in/lliu301)
+- [Resume](https://blerud.github.io/assets/resume.pdf)
