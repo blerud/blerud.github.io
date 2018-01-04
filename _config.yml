@@ -1,0 +1,19 @@
+# Site settings
+title: "Lawrence Liu"
+description: > 
+  blog
+
+author: Lawrence Liu
+email: lliu301@gmail.com
+twitter_username: lliu301
+github_username: blerud
+
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://blerud.github.io" # the base hostname & protocol for your site
+
+# Build settings
+include: [_pages]
+permalink: /:year/:month/:title
+
+#sass:
+#    style: compressed
