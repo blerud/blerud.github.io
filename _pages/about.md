@@ -6,7 +6,9 @@ permalink: /about/
 
 Hi, I'm Lawrence Liu
 
-I study computer science at the University of Maryland College Park
+I studied computer science at the University of Maryland in College Park from 2016 to 2019
+
+I currently work as a software engineer at IMC Trading in Chicago
 
 
 ## Links
